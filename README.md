@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hello human 🖖🏽
 
-<!--
-**MarianaES/MarianaES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🔭 I’m currently working on Teia which is a Mexican platform aimed at pest control companies. 
+<br /> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning a lot, since I started working each assigned task has meant learning new things. 
+<br /> 
+
+🙃 Fun fact: I am an accountant by profession. 
+<br /> 
+
+💚 I love spending time with my family.
+
+## My GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarianaES&show_icons=true&theme=blueberry)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaES&layout=compact&theme=blueberry)
+
+## Contact me 
+
+<p align="center">
+ <a href="https://www.linkedin.com/in/marianaes%E2%97%A1%CC%88/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:mariana.enriquez.s@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
