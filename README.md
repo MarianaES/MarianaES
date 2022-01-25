@@ -2,7 +2,7 @@
 
 ## About Me
 
-🔭 I’m currently working on Teia which is a Mexican platform aimed at pest control companies. 
+🔭 I’m currently working on Cretia which is an all-in-one business platform. 
 <br /> 
 
 🌱 I’m currently learning a lot, since I started working each assigned task has meant learning new things. 
@@ -15,8 +15,8 @@
 
 ## My GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarianaES&show_icons=true&theme=blueberry)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaES&layout=compact&theme=blueberry)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarianaES&show_icons=true&theme=blueberry&hide=issues&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaES&layout=compact&theme=blueberry&hide=jupyter%20notebook)
 
 ## Contact me 
 
