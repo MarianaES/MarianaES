@@ -2,7 +2,7 @@
 
 ## About Me
 
-🔭 I’m currently working on Cretia which is an all-in-one business platform. 
+🔭 I’m currently working on Chunker. 
 <br /> 
 
 🌱 I’m currently learning a lot, since I started working each assigned task has meant learning new things. 
